@@ -32,7 +32,7 @@ export default function Home() {
                 style={{ width: '50px', height: '50px' }}
               />
             </a>
-            <a href="">
+            <a href="https://pump.fun/coin/ApmfxWzD1rYWc5Cge8YNDhAinL3tKUjiB1Gm8rbWpump">
               <img
                 src="/pumpfun.png"
                 alt="Facebook"
